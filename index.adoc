@@ -1,0 +1,14 @@
+= Min Favorittfilm
+
+Hei og hopp.
+Jeg er ikke så glad i å se på film, så jeg føler ikke at denne oppgaven treffer meg.
+Skal ikke være lett gitt.
+
+.Min Favorittfilm
+[#img-filmen]
+image::sunset.jpg[Sunset]
+
+== De beste skuespillerne er:
+* Edgar Allan Poe
+* Sheri S. Tepper
+* Bill Bryson
